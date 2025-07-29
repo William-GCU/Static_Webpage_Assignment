@@ -1,4 +1,4 @@
-Disclaimer
+**Disclaimer**\n
 This is a static webpage generated using ChatGPT for an assignment.
 
 🌐 Demo
