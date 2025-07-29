@@ -10,7 +10,7 @@ You can view the live webpage by opening index.html in your browser.
 ├── index.html         # Main webpage file
 
 ├── css/
-│   └── style.css      # Custom styles for retro layout
+    │   └── style.css      # Custom styles for retro layout
 
 └── assets/
     └── video.mp4      # (Optional) Local video file or link to external source
